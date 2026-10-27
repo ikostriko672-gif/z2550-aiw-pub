@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "z3767_canary_prop": {
+      "type": "string",
+      "description": "Z3767-CANARY-REF-OK"
+    }
+  }
+}
