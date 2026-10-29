@@ -1,0 +1,21 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Z4306 Canary API",
+    "version": "1.0.0",
+    "description": "Z4306SPEC-CANARY-7c1e4a"
+  },
+  "paths": {
+    "/z4306-canary": {
+      "get": {
+        "operationId": "getZ4306Canary",
+        "summary": "Z4306 canary operation",
+        "responses": {
+          "200": {
+            "description": "Z4306SPEC-CANARY-7c1e4a ok"
+          }
+        }
+      }
+    }
+  }
+}
